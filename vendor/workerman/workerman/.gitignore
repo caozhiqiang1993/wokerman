@@ -1,5 +1,6 @@
-.idea
+logs
 .buildpath
 .project
 .settings
-composer.lock
+.idea
+.DS_Store
