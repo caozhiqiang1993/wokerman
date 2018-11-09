@@ -1,0 +1,89 @@
+2018-11-09 14:54:01 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:02 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:03 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:04 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:04 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:04 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:05 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:06 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:06 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:06 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:07 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:08 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:08 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:08 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:09 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:09 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:09 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:10 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:10 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:10 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:11 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:11 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:12 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:12 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:13 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:13 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:13 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:13 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:14 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:14 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:15 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:15 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:15 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:15 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:16 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:16 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:17 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:17 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:17 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:17 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:18 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:18 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:18 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:18 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:19 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:19 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:19 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:19 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:20 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:20 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:21 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:21 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:22 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:22 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:22 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:22 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:23 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:23 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:24 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:24 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:24 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:54:24 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:25 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:25 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:54:25 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-09 14:54:25 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:57:12 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'redisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:57:13 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'redisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:57:14 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'redisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:57:15 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'redisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:57:16 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'redisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:57:16 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:57:16 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 14:57:17 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'redisTo\RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 14:59:52 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required 'E:\asia\liaotian\wokerman\Applications\Chat/../../extend/RedisTo.php' (include_path='.;C:\php\pear') in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 36"
+2018-11-09 14:59:53 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required 'E:\asia\liaotian\wokerman\Applications\Chat/../../extend/RedisTo.php' (include_path='.;C:\php\pear') in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 36"
+2018-11-09 14:59:54 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required 'E:\asia\liaotian\wokerman\Applications\Chat/../../extend/RedisTo.php' (include_path='.;C:\php\pear') in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 36"
+2018-11-09 14:59:55 pid:1 Worker process terminated with ERROR: E_COMPILE_ERROR "require_once(): Failed opening required 'E:\asia\liaotian\wokerman\Applications\Chat/../../extend/RedisTo.php' (include_path='.;C:\php\pear') in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 36"
+2018-11-09 15:01:18 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 15:01:19 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 15:01:20 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 15:01:21 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 15:01:21 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 15:01:21 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 15:01:22 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
+2018-11-09 15:01:22 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-09 15:01:22 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3

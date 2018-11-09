@@ -27,6 +27,21 @@ use \GatewayWorker\Lib\Gateway;
 
 class Events
 {
+    static public $redis;
+    /**
+     * 当businessWorker进程启动时触发
+     */
+    public static function onWorkerStart()
+    {
+        require_once __DIR__ . '/../../extend/redisTo/RedisTo.php';
+        $config = [
+            'host' => '127.0.0.1',
+            'port' => '6379',
+            'auth' => '123456',
+        ];
+        self::$redis = RedisTo::getInstance($config);
+    }
+
    /**
     * 有消息时
     * @param int $client_id
@@ -53,11 +68,34 @@ class Events
             // 客户端登录 message格式: {type:login, name:xx, room_id:1} ，添加到客户端，广播给所有客户端xx进入聊天室
             case 'login':
                 Gateway::bindUid($client_id,$message_data['uid']);
+                //登录进来查找有没有未读消息
+                if(self::$redis->hExists('notSendMsg',$message_data['uid'])){
+                    $allMsg = self::$redis->hGet('notSendMsg',$message_data['uid']);
+                    $allMsg = json_decode($allMsg,true);
+                    foreach($allMsg as $v){
+                        Gateway::sendToUid($message_data['uid'],$v);
+                    }
+                    self::$redis->hDel('notSendMsg',$message_data['uid']);
+                }
                 return;
                 
             // 客户端发言 message: {type:say, to_client_id:xx, content:xx}
             case 'msg':
-                return Gateway::sendToUid($message_data['fuid'],$message);
+                //判断是否在线，在线直接发送，不在先存起来
+                if(Gateway::isUidOnline($message_data['fuid']) == 0){
+                    $arr = [];
+                    if(self::$redis->hExists('notSendMsg',$message_data['fuid'])){
+                        $olbMsg = self::$redis->hGet('notSendMsg',$message_data['fuid']);
+                        if($olbMsg){
+                            $arr = json_decode($olbMsg,true);
+                        }
+                    }
+                    array_push($arr,$message);
+                    self::$redis->hSet('notSendMsg',$message_data['fuid'],json_encode($arr));
+                }else{
+                    return Gateway::sendToUid($message_data['fuid'],$message);
+                }
+
         }
    }
    
