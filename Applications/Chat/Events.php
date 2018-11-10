@@ -24,10 +24,13 @@
  * 主要是处理 onMessage onClose 
  */
 use \GatewayWorker\Lib\Gateway;
+use \GatewayWorker\Lib\DbConnection;
+use \Workerman\Lib\Timer;
 
 class Events
 {
-    static public $redis;
+    public static $redis;
+    public static $db;
     /**
      * 当businessWorker进程启动时触发
      */
@@ -40,6 +43,37 @@ class Events
             'auth' => '123456',
         ];
         self::$redis = RedisTo::getInstance($config);
+        $db_config = array(
+            'host'     => '127.0.0.1',
+            'port'     => '3306',
+            'user'     => 'root',
+            'password' => 'root',
+            'dbname'   => 'liaotian',
+            'charset'  => 'utf8',
+        );
+        self::$db = new DbConnection($db_config['host'],$db_config['port'],$db_config['user'],$db_config['password'],$db_config['dbname']);
+        Timer::add(30,function (){
+            $olbUser = self::$redis->hGetAll('charUsers');
+            $newUser = Gateway::getAllUidList();
+            foreach($olbUser as $k =>$v){
+                if(!isset($newUser[$k])){
+                    $friends = self::$db->select('f_user_id')->from('lt_user_friend')->where("user_id='$k'")->query();
+                    $message = [
+                        'type' => 'login',
+                        'uid' => $k,
+                        'isOnline' => 0,
+                    ];
+                    $message = json_encode($message);
+                    foreach($friends as $v){
+                        if(Gateway::isUidOnline($v['f_user_id']) > 0){
+                            Gateway::sendToUid($v['f_user_id'],$message);
+                        }
+                    }
+                    self::$redis->hDel('charUsers',$k);
+                }
+            }
+
+        });
     }
 
    /**
@@ -67,13 +101,23 @@ class Events
                 return;
             // 客户端登录 message格式: {type:login, name:xx, room_id:1} ，添加到客户端，广播给所有客户端xx进入聊天室
             case 'login':
+                self::$redis->hSet('charUsers',$message_data['uid'],$message_data['uid']);
+                //告诉好友登录了
+                if(Gateway::isUidOnline($message_data['uid']) == 0){
+                    $friends = self::$db->select('f_user_id')->from('lt_user_friend')->where("user_id=".$message_data['uid'])->query();
+                    foreach($friends as $v){
+                        if(Gateway::isUidOnline($v['f_user_id']) > 0){
+                            Gateway::sendToUid($v['f_user_id'],$message);
+                        }
+                    }
+                }
                 Gateway::bindUid($client_id,$message_data['uid']);
                 //登录进来查找有没有未读消息
                 if(self::$redis->hExists('notSendMsg',$message_data['uid'])){
                     $allMsg = self::$redis->hGet('notSendMsg',$message_data['uid']);
                     $allMsg = json_decode($allMsg,true);
                     foreach($allMsg as $v){
-                        Gateway::sendToUid($message_data['uid'],$v);
+                        Gateway::sendToClient($message_data['uid'],$v);
                     }
                     self::$redis->hDel('notSendMsg',$message_data['uid']);
                 }
@@ -105,6 +149,21 @@ class Events
     */
    public static function onClose($client_id)
    {
+       $user_id = Gateway::getUidByClientId($client_id);
+       if(Gateway::isUidOnline($user_id) == 0){
+           $friends = self::$db->select('f_user_id')->from('lt_user_friend')->where("user_id='$user_id'")->query();
+           $message = [
+               'type' => 'login',
+               'uid' => $user_id,
+               'isOnline' => 0,
+           ];
+           $message = json_encode($message);
+           foreach($friends as $v){
+               if(Gateway::isUidOnline($v['f_user_id']) > 0){
+                   Gateway::sendToUid($v['f_user_id'],$message);
+               }
+           }
+       }
        // debug
        echo "client:{$_SERVER['REMOTE_ADDR']}:{$_SERVER['REMOTE_PORT']} gateway:{$_SERVER['GATEWAY_ADDR']}:{$_SERVER['GATEWAY_PORT']}  client_id:$client_id onClose:''\n";
    }

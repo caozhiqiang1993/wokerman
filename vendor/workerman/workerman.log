@@ -87,3 +87,547 @@
 2018-11-09 15:01:22 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'RedisTo' not found in E:\asia\liaotian\wokerman\Applications\Chat\Events.php on line 42"
 2018-11-09 15:01:22 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
 2018-11-09 15:01:22 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:10:55 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:10:56 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:10:57 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:10:58 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:10:59 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:00 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:01 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:01 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:01 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:01 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:01 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:02 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:04 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:04 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:05 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:05 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:05 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:06 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:06 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:06 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:07 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:08 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:08 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:08 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:08 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:09 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:09 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:10 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:10 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:10 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:10 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:10 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:10 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:11 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:11 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:12 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:12 pid:1 Register auth timeout (127.0.0.1). See http://wiki.workerman.net/Error4 for detail
+2018-11-10 10:11:15 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:16 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:16 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:17 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Config\Db' not found in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\Db.php on line 40"
+2018-11-10 10:11:17 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:11:17 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:13:58 pid:1 exception 'PDOException' with message 'SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: 不知道这样的主机。 ' in E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\DbConnection.php:1709
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1709): PDO->__construct('mysql:dbname=;h...', NULL, NULL, Array)
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Lib\DbConnection.php(1695): GatewayWorker\Lib\DbConnection->connect()
+#2 E:\asia\liaotian\wokerman\Applications\Chat\Events.php(53): GatewayWorker\Lib\DbConnection->__construct(Array)
+#3 [internal function]: Events::onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#4 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\BusinessWorker.php(223): call_user_func('Events::onWorke...', Object(GatewayWorker\BusinessWorker))
+#5 [internal function]: GatewayWorker\BusinessWorker->onWorkerStart(Object(GatewayWorker\BusinessWorker))
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2307): call_user_func(Array, Object(GatewayWorker\BusinessWorker))
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\BusinessWorker.php(197): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\BusinessWorker->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_businessworker.php(32): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:13:59 pid:1 Worker process terminated
+2018-11-10 10:13:59 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:13:59 pid:1 SendBufferToWorker fail. The connections between Gateway and BusinessWorker are not ready. See http://wiki.workerman.net/Error3
+2018-11-10 10:25:09 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:09 pid:1 Worker process terminated
+2018-11-10 10:25:12 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:12 pid:1 Worker process terminated
+2018-11-10 10:25:14 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:14 pid:1 Worker process terminated
+2018-11-10 10:25:16 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:16 pid:1 Worker process terminated
+2018-11-10 10:25:18 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:18 pid:1 Worker process terminated
+2018-11-10 10:25:20 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:20 pid:1 Worker process terminated
+2018-11-10 10:25:23 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:23 pid:1 Worker process terminated
+2018-11-10 10:25:26 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:26 pid:1 Worker process terminated
+2018-11-10 10:25:29 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:29 pid:1 Worker process terminated
+2018-11-10 10:25:31 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:31 pid:1 Worker process terminated
+2018-11-10 10:25:33 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:33 pid:1 Worker process terminated
+2018-11-10 10:25:35 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:35 pid:1 Worker process terminated
+2018-11-10 10:25:38 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:38 pid:1 Worker process terminated
+2018-11-10 10:25:41 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:41 pid:1 Worker process terminated
+2018-11-10 10:25:44 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:44 pid:1 Worker process terminated
+2018-11-10 10:25:46 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:46 pid:1 Worker process terminated
+2018-11-10 10:25:48 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:48 pid:1 Worker process terminated
+2018-11-10 10:25:50 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:50 pid:1 Worker process terminated
+2018-11-10 10:25:52 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:52 pid:1 Worker process terminated
+2018-11-10 10:25:54 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:54 pid:1 Worker process terminated
+2018-11-10 10:25:56 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:56 pid:1 Worker process terminated
+2018-11-10 10:25:58 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:25:58 pid:1 Worker process terminated
+2018-11-10 10:26:01 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:01 pid:1 Worker process terminated
+2018-11-10 10:26:04 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:04 pid:1 Worker process terminated
+2018-11-10 10:26:07 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:07 pid:1 Worker process terminated
+2018-11-10 10:26:10 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:10 pid:1 Worker process terminated
+2018-11-10 10:26:12 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:12 pid:1 Worker process terminated
+2018-11-10 10:26:14 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:14 pid:1 Worker process terminated
+2018-11-10 10:26:16 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:16 pid:1 Worker process terminated
+2018-11-10 10:26:18 pid:1 exception 'Exception' with message 'You can't send(array) to client, you need to convert it to a string. ' in E:\asia\liaotian\wokerman\vendor\workerman\workerman\Protocols\Websocket.php:236
+Stack trace:
+#0 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(336): Workerman\Protocols\Websocket::encode(Array, Object(Workerman\Connection\TcpConnection))
+#1 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(765): Workerman\Connection\TcpConnection->send(Array)
+#2 [internal function]: GatewayWorker\Gateway->onWorkerMessage(Object(Workerman\Connection\TcpConnection), Array)
+#3 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Connection\TcpConnection.php(650): call_user_func(Array, Object(Workerman\Connection\TcpConnection), Array)
+#4 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #33)
+#5 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Events\Select.php(295): call_user_func_array(Array, Array)
+#6 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(2322): Workerman\Events\Select->loop()
+#7 E:\asia\liaotian\wokerman\vendor\workerman\gateway-worker\src\Gateway.php(276): Workerman\Worker->run()
+#8 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1315): GatewayWorker\Gateway->run()
+#9 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#10 E:\asia\liaotian\wokerman\vendor\workerman\workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#11 E:\asia\liaotian\wokerman\Applications\Chat\start_gateway.php(59): Workerman\Worker::runAll()
+#12 {main}
+2018-11-10 10:26:18 pid:1 Worker process terminated
